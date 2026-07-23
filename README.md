@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## こんにちは、mizuno-0317 です 👋
 
-・I'm currently learning web development at COACHTECH.
-・現在COACHTECHでWeb開発を学習をしています。
+- I'm currently learning web development at COACHTECH.
+- 現在COACHTECHでWeb開発を学習をしています。
 
 ---
 
@@ -14,18 +14,18 @@
 - **Tools:** Docker / Git / GitHub
 
 ## 📂 Projects（学習成果物）
-・These repositories contain projects I built through the COACHTECH hands-on curriculum.
-・COACHTECH 教材のハンズオンで作成したリポジトリです。
+- These repositories contain projects I built through the COACHTECH hands-on curriculum.
+- COACHTECH 教材のハンズオンで作成したリポジトリです。
 
 🚧 Coming soon...
 
 ## 🌱 What’s Next（これから挑戦したいこと）
-・Build web applications based on my own ideas.
-・Gain practical experience as a web developer.
+- Build web applications based on my own ideas.
+- Gain practical experience as a web developer.
 
--日本語
-・作りたいものをきちんとカタチにできるようになりたい。
-・エンジニアとしてたくさんの経験を積みたい。 
+**日本語**
+- 作りたいものをきちんとカタチにできるようになりたい。
+- エンジニアとしてたくさんの経験を積みたい。 
 
 ## 📫 連絡先・リンク
 
